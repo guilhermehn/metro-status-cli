@@ -1,0 +1,14 @@
+{
+  "name": "metro-status-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "metro-status": "index.js"
+  },
+  "author": "Guilherme Nagatomo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
