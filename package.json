@@ -1,7 +1,7 @@
 {
   "name": "metro-status-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Veja o status das linhas do Metrô de São Paulo no terminal",
   "main": "index.js",
   "bin": {
     "metro-status": "index.js"
